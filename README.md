@@ -1,2 +1,2 @@
 # Portfolio
-This is an Portfoli Project created using html and css
+This is an Portfolio Project created using html and css
